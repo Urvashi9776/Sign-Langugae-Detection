@@ -33,6 +33,9 @@ This project focuses on action detection in sign language using machine learning
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
+## License
+[MIT License]
+
 ## Contact
 [Urvashi Aggarwal] - [urvashiaggarwal2002@gmail.com]
 
