@@ -11,8 +11,7 @@ The main script, **ActionDetectionforSignLanguage.ipynb**, contains the code for
 ## 📂 Files in the Repository
 
 - **ActionDetectionforSignLanguage.ipynb**: The main Jupyter notebook that contains the full implementation of the action detection model, from data loading to model evaluation.
-- **events.out.tfevents.\***: These are TensorFlow event files that store training logs and metrics, which can be visualized using **TensorBoard** for detailed insights into the training process.
-
+  
 ---
 
 ## 🛠️ Requirements
